@@ -1,0 +1,11 @@
+
+backend/node_modules/
+
+node_modules/
+
+nlp-chat-client/.eslintcache
+
+backend/.env
+
+backend/chat.db
+backend/chat.db-journal
