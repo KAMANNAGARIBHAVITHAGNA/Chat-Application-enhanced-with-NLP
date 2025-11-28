@@ -1,9 +1,6 @@
 # AI-Powered NLP Chat Application
 
 A real-time chat application with AI assistant, natural language processing, sentiment analysis, and persistent storage.
-
-![NLP Chat Demo](nlp-chat-demo.gif)
-
 ## 🌟 Features
 
 ### 💬 AI Chatbot
